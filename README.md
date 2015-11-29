@@ -9,6 +9,12 @@ Status
 --------
 Currently works with a static string parsed as XML (and then as JXON).
 
+To Run
+--------
+Get [http-server](https://github.com/indexzero/http-server) and run:
+
+    http-server ./ -p 8000 -c-1
+
 Next Steps
 --------
 1. Get XML from URL
