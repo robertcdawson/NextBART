@@ -14,3 +14,4 @@ Next Steps
 1. Get XML from URL
 2. Add dropdown with stations
 3. Update XML state per dropdown selection
+4. Integrate Require.js
