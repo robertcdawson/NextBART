@@ -3,7 +3,7 @@ NextBART
 
 Description
 --------
-This web app parses the BART API into JSON format (or, JXON) and shows which trains are coming to a given station as well as the number of cars on each train.
+This React app parses the BART API into JSON format (or, JXON) and shows which trains are coming to a given station as well as the number of cars on each train.
 
 Status
 --------
